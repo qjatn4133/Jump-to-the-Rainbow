@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+CRC: 3578294169
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dd2d0d93d338466917a2e51656af76f1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0727e755299a1fe6eade132ab9cbea37
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3bdb1856f017f845a880fb89ef7bb57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5edadf596b29d8d4880037c5f78d229d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 37a4261b1cb617346830f3c4c01ccd00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Bundles/Skins/quokka/Basic/skin.prefab
+Dependencies: []

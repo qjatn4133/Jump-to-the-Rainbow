@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: f06873dc775ab4bc4831abba2e613355
+labels:
+- Audio
+- Casual
+- Music
+- Loop
+- Sound
+- Soundtrack
+- OST
+timeCreated: 1452534886
+licenseType: Store
+AudioImporter:
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 1
+  normalize: 0
+  preloadAudioData: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

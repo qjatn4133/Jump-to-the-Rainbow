@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2d3567201a8860d4b9c4c58b618db88e
+timeCreated: 1527556544
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 72
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: godoMaum
+  fontNames:
+  - godoMaum
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

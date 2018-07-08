@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2642116953
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: skins/rabbit_basic
+      Dependencies: {}
+    Info_1:
+      Name: skins/frog_basic
+      Dependencies: {}
+    Info_2:
+      Name: skins/quokka_basic
+      Dependencies: {}
+    Info_3:
+      Name: skins/zddongman_basic
+      Dependencies: {}
+    Info_4:
+      Name: skins/rabbit_f_celeb
+      Dependencies: {}
+    Info_5:
+      Name: skins/rabbit_c_cherryblossom
+      Dependencies: {}
+    Info_6:
+      Name: skins/rabbit_e_shining
+      Dependencies: {}
+    Info_7:
+      Name: skins/rabbit_d_summer
+      Dependencies: {}
+    Info_8:
+      Name: skins/frog_c_cherryblossom
+      Dependencies: {}
+    Info_9:
+      Name: skins/frog_d_summer
+      Dependencies: {}
+    Info_10:
+      Name: skins/frog_e_shining
+      Dependencies: {}
+    Info_11:
+      Name: skins/quokka_c_cherryblossom
+      Dependencies: {}
+    Info_12:
+      Name: skins/quokka_e_shining
+      Dependencies: {}
+    Info_13:
+      Name: skins/quokka_d_summer
+      Dependencies: {}
+    Info_14:
+      Name: skins/quokka_f_celeb
+      Dependencies: {}
+    Info_15:
+      Name: skins/frog_f_celeb
+      Dependencies: {}
